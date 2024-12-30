@@ -1,0 +1,132 @@
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.exe
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.deps.json
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.runtimeconfig.json
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.pdb
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Core.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Data.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.PCA.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.DataView.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\System.Numerics.Tensors.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.csproj.AssemblyReference.cache
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp_MarkupCompile.cache
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.g.resources
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.AssemblyInfoInputs.cache
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.AssemblyInfo.cs
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.csproj.CoreCompileInputs.cache
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRa.6FBEA4AE.Up2Date
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\refint\ReviewRatingApp.dll
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.pdb
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.genruntimeconfig.cache
+C:\Users\kangj\source\repos\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ref\ReviewRatingApp.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.exe
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.deps.json
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.runtimeconfig.json
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.pdb
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Core.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Data.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.PCA.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.DataView.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\System.Numerics.Tensors.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.csproj.AssemblyReference.cache
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp_MarkupCompile.cache
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.g.resources
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.AssemblyInfoInputs.cache
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.AssemblyInfo.cs
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.csproj.CoreCompileInputs.cache
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRa.6FBEA4AE.Up2Date
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\refint\ReviewRatingApp.dll
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.pdb
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.genruntimeconfig.cache
+C:\Users\kangj\Desktop\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ref\ReviewRatingApp.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.exe
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.deps.json
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\ReviewRatingApp.pdb
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Core.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Data.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.KMeansClustering.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.PCA.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.StandardTrainers.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.Transforms.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.CpuMath.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Microsoft.ML.DataView.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\System.Numerics.Tensors.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so.dbg
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so.dbg
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so.dbg
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\LdaNative.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\LdaNative.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\LdaNative.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\MainWindow.baml
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\App.g.cs
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp_MarkupCompile.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.g.resources
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRa.6FBEA4AE.Up2Date
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\refint\ReviewRatingApp.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.pdb
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ReviewRatingApp.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ReviewRatingApp\obj\Debug\net8.0-windows\ref\ReviewRatingApp.dll

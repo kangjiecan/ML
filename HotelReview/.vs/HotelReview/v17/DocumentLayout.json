@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9E8E0C-0890-47D8-A698-4B1432B7BAD5}|ReviewRatingApp\\ReviewRatingApp.csproj|\\\\vmware-host\\shared folders\\desktop\\c#\\hotelreview\\reviewratingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22088FCD-FACE-40B6-B224-89B41684B5A7}|ConsoleApp2\\model-training.csproj|\\\\vmware-host\\shared folders\\desktop\\c#\\hotelreview\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9E8E0C-0890-47D8-A698-4B1432B7BAD5}|ReviewRatingApp\\ReviewRatingApp.csproj|\\\\vmware-host\\shared folders\\desktop\\c#\\hotelreview\\reviewratingapp\\reviewratingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9E8E0C-0890-47D8-A698-4B1432B7BAD5}|ReviewRatingApp\\ReviewRatingApp.csproj|\\\\vmware-host\\shared folders\\desktop\\c#\\hotelreview\\reviewratingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22088FCD-FACE-40B6-B224-89B41684B5A7}|ConsoleApp2\\model-training.csproj|\\\\vmware-host\\shared folders\\desktop\\c#\\hotelreview\\consoleapp2\\reviewprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22088FCD-FACE-40B6-B224-89B41684B5A7}|ConsoleApp2\\model-training.csproj|\\\\vmware-host\\shared folders\\desktop\\c#\\hotelreview\\consoleapp2\\reviewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22088FCD-FACE-40B6-B224-89B41684B5A7}|ConsoleApp2\\model-training.csproj|\\\\vmware-host\\shared folders\\desktop\\c#\\hotelreview\\consoleapp2\\reviewtransformeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ReviewRatingApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReviewRatingApp\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ReviewRatingApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ReviewRatingApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:46:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewRatingApp.csproj",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ReviewRatingApp\\ReviewRatingApp.csproj",
+              "RelativeDocumentMoniker": "ReviewRatingApp\\ReviewRatingApp.csproj",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ReviewRatingApp\\ReviewRatingApp.csproj",
+              "RelativeToolTip": "ReviewRatingApp\\ReviewRatingApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T18:22:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewPrediction.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\ReviewPrediction.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ReviewPrediction.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\ReviewPrediction.cs",
+              "RelativeToolTip": "ConsoleApp2\\ReviewPrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:07:55.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewData.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\ReviewData.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ReviewData.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\ReviewData.cs",
+              "RelativeToolTip": "ConsoleApp2\\ReviewData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:07:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ReviewRatingApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ReviewRatingApp\\MainWindow.xaml",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ReviewRatingApp\\MainWindow.xaml",
+              "RelativeToolTip": "ReviewRatingApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T00:10:10.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:07:45.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewTransformedData.cs",
+              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\ReviewTransformedData.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ReviewTransformedData.cs",
+              "ToolTip": "\\\\vmware-host\\Shared Folders\\Desktop\\c#\\HotelReview\\ConsoleApp2\\ReviewTransformedData.cs",
+              "RelativeToolTip": "ConsoleApp2\\ReviewTransformedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:08:18.287Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

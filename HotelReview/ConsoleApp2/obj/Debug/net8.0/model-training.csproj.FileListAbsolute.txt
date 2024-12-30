@@ -1,0 +1,120 @@
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.exe
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.deps.json
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.runtimeconfig.json
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.pdb
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.csproj.AssemblyReference.cache
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.AssemblyInfoInputs.cache
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.AssemblyInfo.cs
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.csproj.CoreCompileInputs.cache
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-tr.E22F5BAC.Up2Date
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\refint\model-training.dll
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.pdb
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.genruntimeconfig.cache
+C:\Users\kangj\source\repos\HotelReview\ConsoleApp2\obj\Debug\net8.0\ref\model-training.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.exe
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.deps.json
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.runtimeconfig.json
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.pdb
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Core.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Data.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\System.Numerics.Tensors.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.csproj.AssemblyReference.cache
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.AssemblyInfoInputs.cache
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.AssemblyInfo.cs
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.csproj.CoreCompileInputs.cache
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-tr.E22F5BAC.Up2Date
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\refint\model-training.dll
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.pdb
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.genruntimeconfig.cache
+C:\Users\kangj\Desktop\HotelReview\ConsoleApp2\obj\Debug\net8.0\ref\model-training.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.exe
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.deps.json
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\model-training.pdb
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Core.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Data.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.KMeansClustering.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.PCA.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.StandardTrainers.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.Transforms.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.CpuMath.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Microsoft.ML.DataView.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\System.CodeDom.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\System.Numerics.Tensors.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm\native\libLdaNative.so.dbg
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-arm64\native\libLdaNative.so.dbg
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\linux-x64\native\libLdaNative.so.dbg
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-arm64\native\LdaNative.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-x64\native\LdaNative.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-tr.E22F5BAC.Up2Date
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\refint\model-training.dll
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.pdb
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\model-training.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Desktop\c#\HotelReview\ConsoleApp2\obj\Debug\net8.0\ref\model-training.dll
